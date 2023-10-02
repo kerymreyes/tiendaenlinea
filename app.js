@@ -9,7 +9,7 @@ const products = [
     colors: [
       {
         code: "darkblue",
-        img: "/img/traje1.png",
+        img: "img/traje1.png",
       },
     ],
   },
@@ -20,7 +20,7 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "/img/traje2.png",
+        img: "img/traje2.png",
       },
     ],
   },
@@ -31,7 +31,7 @@ const products = [
     colors: [      
       {
         code: "green",
-        img: "/img/traje3.png",
+        img: "img/traje3.png",
       },
     ],
   },
@@ -42,7 +42,7 @@ const products = [
     colors: [
       {
         code: "red",
-        img: "/img/traje4.png",
+        img: "img/traje4.png",
       },
     ],
   },
@@ -53,7 +53,7 @@ const products = [
     colors: [
       {
         code: "gray",
-        img: "/img/traje5.png",
+        img: "img/traje5.png",
       },
     ],
   },
